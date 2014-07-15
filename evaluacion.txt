@@ -1,0 +1,47 @@
+Practica
+
+- Que permisologia tiene los siguientes archivos
+rwxrwx--- 421 421
+--------- 
+rw-rw--- 42 42 
+r-xr-xr-x 414 141
+---rw-r-x 4241
+--x--x--x 111
+
+
+- Ejecuten la búsqueda con grep buscando cunaguaro y guarde la salida en un archivo llamado
+firefox.txt
+       ps -aux | grep cunaguaro> firefox.txt
+       
+-Cuanto pesa tu /home/ y cuanto pesa /etc
+
+
+- Se requiere guardar un archivo dentro de la configuración de la memoria del computador dentro
+de un archivo llamado memoria.txt
+
+-Se requiere guardar toda la configuración de la versión del kernel en un archivo llamado kernel.txt
+
+- Como matamos un proceso del computador
+     kill -9
+- Que hace el respectivo comando $cat toto > toto2
+
+- Cree una carpeta con tu nombre 
+   mkdir ISIDRO FRANCO 
+- Dentro de la carpeta, creamos tres archivos de nombre c1 c2 c3 
+   cd isidro franco
+    touch c1.txt.c2.txt.c3.txt 
+- Guardamos en el c1 su nombre completo
+     aptitude search ISIDRO FRANCO.TXT
+- Guardamos el c3 el correo electrónico
+    aptitude search isidrofranco@gmail.com.txt
+- Describa a continuación la función de los siguientes directorios
+
+/bin archivos binarios     
+/home/ carpeta de usuario
+/media dispositivos extraibles 
+/var  otros archivos 
+/	
+/sbin archivos binarios 
+/boot archivos de arranque 
+
+
